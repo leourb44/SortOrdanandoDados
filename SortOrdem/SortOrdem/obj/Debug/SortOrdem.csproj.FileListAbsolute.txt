@@ -1,0 +1,8 @@
+C:\Users\leour\OneDrive\Área de Trabalho\programas\C#\SortOrdem\SortOrdem\bin\Debug\SortOrdem.exe.config
+C:\Users\leour\OneDrive\Área de Trabalho\programas\C#\SortOrdem\SortOrdem\bin\Debug\SortOrdem.exe
+C:\Users\leour\OneDrive\Área de Trabalho\programas\C#\SortOrdem\SortOrdem\bin\Debug\SortOrdem.pdb
+C:\Users\leour\OneDrive\Área de Trabalho\programas\C#\SortOrdem\SortOrdem\obj\Debug\SortOrdem.csproj.AssemblyReference.cache
+C:\Users\leour\OneDrive\Área de Trabalho\programas\C#\SortOrdem\SortOrdem\obj\Debug\SortOrdem.csproj.SuggestedBindingRedirects.cache
+C:\Users\leour\OneDrive\Área de Trabalho\programas\C#\SortOrdem\SortOrdem\obj\Debug\SortOrdem.csproj.CoreCompileInputs.cache
+C:\Users\leour\OneDrive\Área de Trabalho\programas\C#\SortOrdem\SortOrdem\obj\Debug\SortOrdem.exe
+C:\Users\leour\OneDrive\Área de Trabalho\programas\C#\SortOrdem\SortOrdem\obj\Debug\SortOrdem.pdb
